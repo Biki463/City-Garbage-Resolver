@@ -27,3 +27,12 @@ Get notified when a garbage bin reaches its full capacity, enabling proactive wa
 Provide navigation and roadmap features for garbage truck drivers, including shortest distance and fastest routes for efficient waste collection.
 
 
+![WhatsApp Image 2024-02-24 at 11 52 18_2ea968df](https://github.com/Biki463/City-Garbage-Resolver/assets/112604585/4cc60f93-67ed-467a-8c1b-e02bf851403d)
+![WhatsApp Image 2024-02-24 at 11 52 18_7f8450fb](https://github.com/Biki463/City-Garbage-Resolver/assets/112604585/0e046dca-f6dd-40c2-88e1-8ac160cb5849)
+![WhatsApp Image 2024-02-24 at 11 52 19_c1f46fd8](https://github.com/Biki463/City-Garbage-Resolver/assets/112604585/9efb1666-7093-4f53-851c-a1418a9ab2b6)
+![WhatsApp Image 2024-02-24 at 11 52 19_b2737b9f](https://github.com/Biki463/City-Garbage-Resolver/assets/112604585/74a1ce9a-a239-48f9-8753-7d539a12d8ae)
+![WhatsApp Image 2024-02-24 at 11 52 19_530e1a24](https://github.com/Biki463/City-Garbage-Resolver/assets/112604585/8a91e38d-3c82-4f75-8636-43d6a88a39ce)
+
+
+
+
